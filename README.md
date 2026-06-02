@@ -1,3 +1,4 @@
+This is a repository for the article "Atomistic simulation framework for comparative screening of electromechanical behaviour in polymers".
 The contents of the article_data.tar are divided into 6 folders:
 5 folders contain the necessary files to run the HTP simulation for the 5 polymers described in the article: PVDF, PLLA, PA11, Polyurea, and Chitosan.
 These folder contain output.gro, the intial simulation box, and topol_updated.tpx which contains the topology.
